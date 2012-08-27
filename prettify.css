@@ -1,3 +1,14 @@
+/*
+    A Tubster inspired theme for Google Code Prettify
+    Adapted by Chris Clower
+    Twitter: @clowerweb
+    Email: chris@clowerweb.com
+    Website: http://clowerweb.com/
+
+    Tubster originally created for TextMate by Filmgirl (Christina Warren)
+    https://github.com/filmgirl/TextMate-Themes/blob/master/Tubster.tmTheme
+ */
+
 .com { color: #5C5C5B; }
 .lit { color: #99FF00; }
 .pun, .opn, .clo { color: #FFF; }
